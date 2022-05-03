@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "993155968299",
+    "project_id": "oelefanteapp",
+    "storage_bucket": "oelefanteapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993155968299:android:f0da1988d3721552f0e96e",
+        "android_client_info": {
+          "package_name": "com.santiago.o_elefante"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993155968299-3q494mk7hrp60utmg6bkjvak7o1aj3pv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.santiago.o_elefante",
+            "certificate_hash": "cf434eee45c05b52105eed845eb8762537cc25b8"
+          }
+        },
+        {
+          "client_id": "993155968299-ioe881o3d09lu5q0st6k4n2o5issjcee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCMu000v7J2MA6K6AqH65ImTg8o0X_SOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993155968299-ioe881o3d09lu5q0st6k4n2o5issjcee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
