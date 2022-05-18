@@ -1,14 +1,14 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:3:4-33:19
-MERGED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-17:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:7:5-15:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/ef1a3a44c9219197ecd8b4c1956c3a43/transformed/jetified-firebase-common-ktx-20.1.0/AndroidManifest.xml:11:5-19:19
@@ -60,21 +60,21 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/vice
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/4d0fee22e6910f8191380825b705728b/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-MERGED from [:shared_preferences_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
-MERGED from [:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:flutter_plugin_android_lifecycle] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
-MERGED from [:path_provider_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [:shared_preferences_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:flutter_plugin_android_lifecycle] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-19:12
+MERGED from [:path_provider_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/5a198d60995c6a1515a28223fd021380/transformed/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/ef1a3a44c9219197ecd8b4c1956c3a43/transformed/jetified-firebase-common-ktx-20.1.0/AndroidManifest.xml:2:1-21:12
@@ -140,43 +140,43 @@ MERGED from [androidx.print:print:1.0.0] /Users/vicente.oliveira/.gradle/caches/
 MERGED from [io.grpc:grpc-android:1.44.1] /Users/vicente.oliveira/.gradle/caches/transforms-3/a455cb3f91702fbde8cf28b380b66827/transformed/jetified-grpc-android-1.44.1/AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/c5d2f1d0a5e40a20581f02387e5fdcc6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/29d22ef8aa7c9a40d07d3fae5399893b/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:2:5-38
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-MERGED from [:shared_preferences_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:shared_preferences_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_plugin_android_lifecycle] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:flutter_plugin_android_lifecycle] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
-MERGED from [:path_provider_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+MERGED from [:shared_preferences_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/shared_preferences_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/flutter_plugin_android_lifecycle/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/path_provider_android/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/5a198d60995c6a1515a28223fd021380/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [androidx.multidex:multidex:2.0.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/5a198d60995c6a1515a28223fd021380/transformed/multidex-2.0.0/AndroidManifest.xml:20:5-43
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:5:5-44
@@ -307,18 +307,18 @@ MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vicente.o
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/c5d2f1d0a5e40a20581f02387e5fdcc6/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/29d22ef8aa7c9a40d07d3fae5399893b/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/29d22ef8aa7c9a40d07d3fae5399893b/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:6:5-66
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:8:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/vicente.oliveira/.gradle/caches/transforms-3/b503ee5bdf8f01534dce0d49edb6020d/transformed/jetified-firebase-auth-21.0.3/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/vicente.oliveira/.gradle/caches/transforms-3/b503ee5bdf8f01534dce0d49edb6020d/transformed/jetified-firebase-auth-21.0.3/AndroidManifest.xml:23:5-67
 MERGED from [com.google.firebase:firebase-firestore:24.1.1] /Users/vicente.oliveira/.gradle/caches/transforms-3/620eba366534040c7b55bd59f5813805/transformed/jetified-firebase-firestore-24.1.1/AndroidManifest.xml:14:5-67
@@ -334,15 +334,15 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/441e9f77413a38867ce37e7824d9eea4/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/441e9f77413a38867ce37e7824d9eea4/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:23:5-67
 	android:name
-		ADDED from /Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:6:22-64
 service#com.google.firebase.components.ComponentDiscoveryService
-ADDED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:19
-MERGED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:19
+ADDED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:19
+MERGED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:12:9-16:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:8:9-14:19
 MERGED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:8:9-14:19
 MERGED from [com.google.firebase:firebase-common-ktx:20.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/ef1a3a44c9219197ecd8b4c1956c3a43/transformed/jetified-firebase-common-ktx-20.1.0/AndroidManifest.xml:12:9-18:19
@@ -364,33 +364,33 @@ MERGED from [com.google.firebase:firebase-common:20.1.0] /Users/vicente.oliveira
 	android:directBootAware
 		ADDED from [com.google.firebase:firebase-common:20.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/2e290dd4e2df1388678920571011d123/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:35:13-43
 	android:name
-		ADDED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+		ADDED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
-ADDED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
-ADDED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+		ADDED from [:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
 meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
-ADDED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+ADDED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 	android:value
-		ADDED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+		ADDED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 	android:name
-		ADDED from [:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+		ADDED from [:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 uses-permission#android.permission.USE_FINGERPRINT
-ADDED from [:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-74
+ADDED from [:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-74
 MERGED from [androidx.biometric:biometric:1.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/3597d0b6893f0821ff805304a15fa7dc/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
 MERGED from [androidx.biometric:biometric:1.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/3597d0b6893f0821ff805304a15fa7dc/transformed/biometric-1.1.0/AndroidManifest.xml:27:5-74
 	android:name
-		ADDED from [:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-71
+		ADDED from [:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-71
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/vicente.oliveira/.gradle/caches/transforms-3/b503ee5bdf8f01534dce0d49edb6020d/transformed/jetified-firebase-auth-21.0.3/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-auth:21.0.3] /Users/vicente.oliveira/.gradle/caches/transforms-3/b503ee5bdf8f01534dce0d49edb6020d/transformed/jetified-firebase-auth-21.0.3/AndroidManifest.xml:24:5-79
 MERGED from [com.google.firebase:firebase-firestore:24.1.1] /Users/vicente.oliveira/.gradle/caches/transforms-3/620eba366534040c7b55bd59f5813805/transformed/jetified-firebase-firestore-24.1.1/AndroidManifest.xml:13:5-79
@@ -408,9 +408,9 @@ MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /U
 MERGED from [io.grpc:grpc-android:1.44.1] /Users/vicente.oliveira/.gradle/caches/transforms-3/a455cb3f91702fbde8cf28b380b66827/transformed/jetified-grpc-android-1.44.1/AndroidManifest.xml:9:5-79
 MERGED from [io.grpc:grpc-android:1.44.1] /Users/vicente.oliveira/.gradle/caches/transforms-3/a455cb3f91702fbde8cf28b380b66827/transformed/jetified-grpc-android-1.44.1/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
+ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/cd777cf4e21bc87e0f46c1b7a94762e3/transformed/jetified-play-services-measurement-api-20.1.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/cd777cf4e21bc87e0f46c1b7a94762e3/transformed/jetified-play-services-measurement-api-20.1.2/AndroidManifest.xml:24:5-68
 MERGED from [com.google.android.gms:play-services-measurement:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/a9115c14332a2fd9999d3662ce0fb683/transformed/jetified-play-services-measurement-20.1.2/AndroidManifest.xml:25:5-68
@@ -420,13 +420,13 @@ MERGED from [com.google.android.gms:play-services-measurement-impl:20.1.2] /User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/441e9f77413a38867ce37e7824d9eea4/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/441e9f77413a38867ce37e7824d9eea4/transformed/jetified-play-services-measurement-sdk-api-20.1.2/AndroidManifest.xml:25:5-68
 	android:name
-		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
 meta-data#com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar
-ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:85
+ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:85
 	android:value
-		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-82
+		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-82
 	android:name
-		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-127
+		ADDED from [:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-127
 meta-data#com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar
 ADDED from [com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:11:13-13:85
 	android:value

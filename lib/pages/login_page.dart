@@ -2,9 +2,9 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:o_elefante/pages/controllers/register_page.dart';
-import 'package:o_elefante/pages/home_page.dart';
 import 'controllers/login_controller.dart';
 import 'controllers/validator.dart';
+import 'access_page.dart';
 
 class LoginPage extends StatefulWidget {
   @override
@@ -30,7 +30,7 @@ class _LoginPageState extends State<LoginPage> {
     if (user != null) {
       Navigator.of(context).pushReplacement(
         MaterialPageRoute(
-          builder: (context) => HomePage(user: user),
+          builder: (context) => AccessPage(),
         ),
       );
     }
@@ -138,7 +138,7 @@ class _LoginPageState extends State<LoginPage> {
                                                   .pushReplacement(
                                                 MaterialPageRoute(
                                                   builder: (context) =>
-                                                      HomePage(user: user),
+                                                      AccessPage(),
                                                 ),
                                               );
                                             }

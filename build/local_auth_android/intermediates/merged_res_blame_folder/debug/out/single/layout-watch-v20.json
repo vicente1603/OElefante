@@ -1,10 +1,10 @@
 [
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/layout-watch-v20/abc_alert_dialog_title_material.xml",
         "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     }
 ]

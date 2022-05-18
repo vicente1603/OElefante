@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:o_elefante/pages/controllers/validator.dart';
-import 'package:o_elefante/pages/home_page.dart';
+import 'package:o_elefante/pages/profile_page.dart';
 
+import '../access_page.dart';
 import 'login_controller.dart';
 
 class RegisterPage extends StatefulWidget {
@@ -128,7 +128,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                               .pushAndRemoveUntil(
                                             MaterialPageRoute(
                                               builder: (context) =>
-                                                  HomePage(user: user),
+                                                  AccessPage(),
                                             ),
                                             ModalRoute.withName('/'),
                                           );

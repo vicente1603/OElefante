@@ -1,38 +1,38 @@
 [
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
-        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
-    },
-    {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
-        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
-        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
-        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
-    },
-    {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
         "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_spinner.xml"
     },
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
-        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_color_highlight_material.xml"
     },
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
-        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
         "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_edittext.xml"
     },
     {
-        "merged": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
         "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/color-v23/abc_tint_default.xml"
     }
 ]

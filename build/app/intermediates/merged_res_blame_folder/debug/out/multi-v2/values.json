@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/53626e6894f8640df8f8dc21b989d6d7/transformed/jetified-savedstate-1.1.0/res/values/values.xml",
@@ -18,6 +18,25 @@
                         "startOffsets": "20333",
                         "endColumns": "53",
                         "endOffsets": "20382"
+                    }
+                },
+                {
+                    "source": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "173,807",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "465,971"
+                    },
+                    "to": {
+                        "startLines": "1475,1480",
+                        "startColumns": "4,4",
+                        "startOffsets": "96556,96853",
+                        "endLines": "1479,1482",
+                        "endColumns": "12,12",
+                        "endOffsets": "96848,97017"
                     }
                 },
                 {
@@ -40,39 +59,22 @@
                     }
                 },
                 {
-                    "source": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/packaged_res/debug/values/values.xml",
                     "from": {
-                        "startLines": "3,14",
-                        "startColumns": "4,4",
-                        "startOffsets": "173,807",
-                        "endLines": "7,16",
-                        "endColumns": "12,12",
-                        "endOffsets": "465,971"
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,100,144,189,237,285,331,377,425",
+                        "endLines": "2,3,4,5,6,7,8,9,15",
+                        "endColumns": "44,43,44,47,47,45,45,47,10",
+                        "endOffsets": "95,139,184,232,280,326,372,420,720"
                     },
                     "to": {
-                        "startLines": "1475,1480",
-                        "startColumns": "4,4",
-                        "startOffsets": "96556,96853",
-                        "endLines": "1479,1482",
-                        "endColumns": "12,12",
-                        "endOffsets": "96848,97017"
-                    }
-                },
-                {
-                    "source": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,281,385,494,614,710",
-                        "endColumns": "143,81,103,108,119,95,72",
-                        "endOffsets": "194,276,380,489,609,705,778"
-                    },
-                    "to": {
-                        "startLines": "379,387,391,392,393,394,395",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "25217,26012,26390,26494,26603,26723,26819",
-                        "endColumns": "143,81,103,108,119,95,72",
-                        "endOffsets": "25356,26089,26489,26598,26718,26814,26887"
+                        "startLines": "65,94,97,126,133,212,232,233,400",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "3610,5762,5941,7789,8244,13604,15118,15164,27184",
+                        "endLines": "65,94,97,126,133,212,232,233,405",
+                        "endColumns": "44,43,44,47,47,45,45,47,10",
+                        "endOffsets": "3650,5801,5981,7832,8287,13645,15159,15207,27479"
                     }
                 },
                 {
@@ -164,6 +166,23 @@
                         "startOffsets": "20744,23788",
                         "endColumns": "67,166",
                         "endOffsets": "20807,23950"
+                    }
+                },
+                {
+                    "source": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,281,385,494,614,710",
+                        "endColumns": "143,81,103,108,119,95,72",
+                        "endOffsets": "194,276,380,489,609,705,778"
+                    },
+                    "to": {
+                        "startLines": "379,387,391,392,393,394,395",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "25217,26012,26390,26494,26603,26723,26819",
+                        "endColumns": "143,81,103,108,119,95,72",
+                        "endOffsets": "25356,26089,26489,26598,26718,26814,26887"
                     }
                 },
                 {
@@ -274,25 +293,6 @@
                         "endLines": "2078,2085,2096,3323,3328",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "140376,140761,141358,206568,206838"
-                    }
-                },
-                {
-                    "source": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/packaged_res/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,100,144,189,237,285,331,377,425",
-                        "endLines": "2,3,4,5,6,7,8,9,15",
-                        "endColumns": "44,43,44,47,47,45,45,47,10",
-                        "endOffsets": "95,139,184,232,280,326,372,420,720"
-                    },
-                    "to": {
-                        "startLines": "65,94,97,126,133,212,232,233,400",
-                        "startColumns": "4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "3610,5762,5941,7789,8244,13604,15118,15164,27184",
-                        "endLines": "65,94,97,126,133,212,232,233,405",
-                        "endColumns": "44,43,44,47,47,45,45,47,10",
-                        "endOffsets": "3650,5801,5981,7832,8287,13645,15159,15207,27479"
                     }
                 }
             ]

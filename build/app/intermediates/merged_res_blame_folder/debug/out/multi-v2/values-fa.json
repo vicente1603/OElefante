@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
+            "outputFile": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml",
             "map": [
                 {
                     "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/711263026d15e64bafe4c295194a531d/transformed/jetified-play-services-basement-18.0.0/res/values-fa/values.xml",

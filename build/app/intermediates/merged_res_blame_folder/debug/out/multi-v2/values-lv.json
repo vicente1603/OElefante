@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/vicente.oliveira/.gradle/caches/transforms-3/caa29eafc6a9971bd6f4d4d3764f75b2/transformed/appcompat-1.2.0/res/values-lv/values-lv.xml",

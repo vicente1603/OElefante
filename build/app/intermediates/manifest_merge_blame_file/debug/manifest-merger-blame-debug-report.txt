@@ -12,17 +12,17 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/Users/vicente.oliveira/Documents/Development/flutter/OElefante/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/android/app/src/debug/AndroidManifest.xml:6:22-64
 15    <uses-permission android:name="android.permission.USE_FINGERPRINT" />
-15-->[:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-74
-15-->[:local_auth_android] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-71
+15-->[:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-74
+15-->[:local_auth_android] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/local_auth_android/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-71
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
-16-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
+16-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-79
+16-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:7:22-76
 17    <uses-permission android:name="android.permission.WAKE_LOCK" />
-17-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
-17-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
+17-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:5-68
+17-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:9:22-65
 18    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
 18-->[com.google.android.gms:play-services-measurement-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/cd777cf4e21bc87e0f46c1b7a94762e3/transformed/jetified-play-services-measurement-api-20.1.2/AndroidManifest.xml:25:5-79
 18-->[com.google.android.gms:play-services-measurement-api:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/cd777cf4e21bc87e0f46c1b7a94762e3/transformed/jetified-play-services-measurement-api-20.1.2/AndroidManifest.xml:25:22-76
@@ -74,37 +74,37 @@
 59            android:value="2" />
 60
 61        <service
-61-->[:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+61-->[:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 62            android:name="com.google.firebase.components.ComponentDiscoveryService"
-62-->[:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+62-->[:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 63            android:directBootAware="true"
 63-->[com.google.firebase:firebase-common:20.1.0] /Users/vicente.oliveira/.gradle/caches/transforms-3/2e290dd4e2df1388678920571011d123/transformed/jetified-firebase-common-20.1.0/AndroidManifest.xml:35:13-43
 64            android:exported="false" >
 64-->[com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:10:13-37
 65            <meta-data
-65-->[:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+65-->[:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 66                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-66-->[:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+66-->[:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 67                android:value="com.google.firebase.components.ComponentRegistrar" />
-67-->[:firebase_auth] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+67-->[:firebase_auth] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 68            <meta-data
-68-->[:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+68-->[:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 69                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-69-->[:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+69-->[:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
 70                android:value="com.google.firebase.components.ComponentRegistrar" />
-70-->[:cloud_firestore] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+70-->[:cloud_firestore] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 71            <meta-data
-71-->[:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+71-->[:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 72                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-72-->[:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+72-->[:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
 73                android:value="com.google.firebase.components.ComponentRegistrar" />
-73-->[:firebase_core] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+73-->[:firebase_core] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 74            <meta-data
-74-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:85
+74-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:13:13-15:85
 75                android:name="com.google.firebase.components:io.flutter.plugins.firebaseanalytics.FlutterFirebaseAppRegistrar"
-75-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-127
+75-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:14:17-127
 76                android:value="com.google.firebase.components.ComponentRegistrar" />
-76-->[:firebase_analytics] /Users/vicente.oliveira/Documents/Development/flutter/OElefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-82
+76-->[:firebase_analytics] /Users/vicente.oliveira/Development/flutter/projects/OElefanteApp/o_elefante/build/firebase_analytics/intermediates/library_manifest/debug/AndroidManifest.xml:15:17-82
 77            <meta-data
 77-->[com.google.firebase:firebase-analytics-ktx:20.1.2] /Users/vicente.oliveira/.gradle/caches/transforms-3/fbc06c1c1af9b51c1047a2f0bcb84555/transformed/jetified-firebase-analytics-ktx-20.1.2/AndroidManifest.xml:11:13-13:85
 78                android:name="com.google.firebase.components:com.google.firebase.analytics.ktx.FirebaseAnalyticsKtxRegistrar"
